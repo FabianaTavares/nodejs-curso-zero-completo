@@ -26,5 +26,10 @@
     "commitizen": {
       "path": "./node_modules/cz-conventional-changelog"
     }
+  },
+  "repository": {
+    "url": "https://github.com/FabianaTavares/nodejs-curso-zero-completo.git"
   }
 }
+
+
