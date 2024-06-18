@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v2.0.0...v2.1.0) (2024-06-18)
+
+
+### Funcionalidades
+
+* testando readme ([62c7869](https://github.com/FabianaTavares/nodejs-curso-zero-completo/commit/62c7869d07b2a1b7d142ddac3cd5ec2d8918b8a6))
+
 ## [2.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v1.1.0...v2.0.0) (2024-06-18)
 
 
