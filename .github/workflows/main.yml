@@ -1,10 +1,10 @@
 name: Gerador de CHANGELOG
 
-# só executa no push de commit da branch master
+# só executa no push de commit da branch main
 on:
   push:
     branches:
-      - master
+      - main
 
 jobs:
   build:
@@ -31,11 +31,11 @@ jobs:
       with:
         node-version: 11.x
 
-    # instala as dependências, vai para a master
+    # instala as dependências, vai para a main
     # executa o standard-version, e envia o commit e tag
     - name: Gera o CHANGELOG
       run: |
         npm ci
-        git checkout master
+        git checkout main
         npm run release
-        git push origin master --follow-tags
+        git push origin main --follow-tags
