@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.1.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v3.0.0...v3.1.0) (2024-06-18)
+
+
+### Funcionalidades
+
+* inclusao da tarefa ao modulo ([e8b2326](https://github.com/FabianaTavares/nodejs-curso-zero-completo/commit/e8b23266e0ff8444a31323703f4bfd22dcf9e43a))
+
 ## [3.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v2.1.0...v3.0.0) (2024-06-18)
 
 
