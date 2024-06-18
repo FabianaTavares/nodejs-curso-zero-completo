@@ -10,13 +10,6 @@
   "author": "Fabiana Tavares <fabi.tavares1@gmail.com> (http://www.frtavares.com.br/)",
   "license": "MIT",
   "description": "",
-  "devDependencies": {
-    "@commitlint/cli": "^19.3.0",
-    "@commitlint/config-conventional": "^19.2.2",
-    "cz-conventional-changelog": "^3.3.0",
-    "husky": "^9.0.11",
-    "standard-version": "^9.5.0"
-  },
   "husky": {
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
@@ -27,7 +20,16 @@
       "path": "./node_modules/cz-conventional-changelog"
     }
   },
+  "devDependencies": {
+    "@commitlint/cli": "^19.3.0",
+    "@commitlint/config-conventional": "^19.2.2",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^9.0.11",
+    "standard-version": "^9.5.0"
+  },
   "repository": {
     "url": "https://github.com/FabianaTavares/nodejs-curso-zero-completo.git"
   }
 }
+
+
