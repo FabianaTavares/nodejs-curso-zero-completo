@@ -1,0 +1,15 @@
+{
+  "name": "10_abstracao_input",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Fabiana Tavares <fabi.tavares1@gmail.com> (http://www.frtavares.com.br/)",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
