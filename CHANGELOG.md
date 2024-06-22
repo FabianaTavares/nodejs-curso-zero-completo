@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [5.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v4.0.0...v5.0.0) (2024-06-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* Sessão 3 - Node core modules
+
+### Funcionalidades
+
+* sessão 3 - Node core modules ([a4d48d4](https://github.com/FabianaTavares/nodejs-curso-zero-completo/commit/a4d48d4068e59a36eaf946238348dc7b16b0e2db))
+
 ## [4.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v3.1.0...v4.0.0) (2024-06-18)
 
 
