@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [8.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v7.0.0...v8.0.0) (2024-07-10)
+
+
+### ⚠ BREAKING CHANGES
+
+* Session 7 template engine
+
+### Funcionalidades
+
+* sessao 7 template engine ([530ebc8](https://github.com/FabianaTavares/nodejs-curso-zero-completo/commit/530ebc89cb1390ac96dbc9dfd76453fdc8092192))
+
 ## [7.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v6.0.0...v7.0.0) (2024-07-10)
 
 
