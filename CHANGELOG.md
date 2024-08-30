@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [9.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v8.0.0...v9.0.0) (2024-08-01)
+
+
+### ⚠ BREAKING CHANGES
+
+* session 8 node e mysql
+
+### Funcionalidades
+
+* sessão 8 node e mysql ([9a318f2](https://github.com/FabianaTavares/nodejs-curso-zero-completo/commit/9a318f2afc9158d626d6e38fd24ccac72010099b))
+
 ## [8.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v7.0.0...v8.0.0) (2024-07-10)
 
 
