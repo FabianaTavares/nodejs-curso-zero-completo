@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [11.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v10.0.0...v11.0.0) (2024-09-11)
+
+
+### ⚠ BREAKING CHANGES
+
+* Sessão 10 - Node e MVC
+
+### Funcionalidades
+
+* sessão 10 - Node e MVC ([9a82ab7](https://github.com/FabianaTavares/nodejs-curso-zero-completo/commit/9a82ab75271ddca315d88051084f47c56752e92e))
+
 ## [10.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v9.0.0...v10.0.0) (2024-08-30)
 
 
