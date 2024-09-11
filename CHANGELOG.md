@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [10.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v9.0.0...v10.0.0) (2024-08-30)
+
+
+### ⚠ BREAKING CHANGES
+
+* Sessão 9 Sequelize
+
+### Funcionalidades
+
+* sessão 9 - Sequelize ([7e565d7](https://github.com/FabianaTavares/nodejs-curso-zero-completo/commit/7e565d7ce52cfb9af02bc414ffd12136a42e6f20))
+
 ## [9.0.0](https://github.com/FabianaTavares/nodejs-curso-zero-completo/compare/v8.0.0...v9.0.0) (2024-08-01)
 
 
